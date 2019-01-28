@@ -1,0 +1,16 @@
+.container {
+    height: 200px;
+    width: 300px;
+    background-color: grey;
+    border: 5px solid;
+    border-right-color: red;
+    border-left-color: green;
+    border-top-color: blue;
+    border-bottom-color: yellow;
+}
+
+p {
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+}
